@@ -12,7 +12,7 @@ class SizeController extends Controller
      */
     public function index()
     {
-        //
+        return view('admin.sizes.manage');
     }
 
     /**
@@ -20,7 +20,7 @@ class SizeController extends Controller
      */
     public function create()
     {
-        //
+        return view('admin.sizes.add');
     }
 
     /**

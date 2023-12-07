@@ -22,11 +22,11 @@
                         </p>
                     </a>
                     <ul class="nav nav-treeview">
-                        <li class="nav-item"><a href="#" class="nav-link"><i class="nav-icon bi bi-circle"></i>
+                        <li class="nav-item"><a href="{{route('category.create')}}" class="nav-link"><i class="nav-icon bi bi-circle"></i>
                                 <p>Add Category</p>
                             </a></li>
 
-                        <li class="nav-item"><a href="#" class="nav-link"><i class="nav-icon bi bi-circle"></i>
+                        <li class="nav-item"><a href="{{route('category.index')}}" class="nav-link"><i class="nav-icon bi bi-circle"></i>
                                 <p>Manage Category</p>
                             </a></li>
                     </ul>
@@ -38,11 +38,11 @@
                         </p>
                     </a>
                     <ul class="nav nav-treeview">
-                        <li class="nav-item"><a href="#" class="nav-link"><i class="nav-icon bi bi-circle"></i>
+                        <li class="nav-item"><a href="{{route('subCategory.create')}}" class="nav-link"><i class="nav-icon bi bi-circle"></i>
                                 <p>Add Sub Category</p>
                             </a></li>
 
-                        <li class="nav-item"><a href="#" class="nav-link"><i class="nav-icon bi bi-circle"></i>
+                        <li class="nav-item"><a href="{{route('subCategory.index')}}" class="nav-link"><i class="nav-icon bi bi-circle"></i>
                                 <p>Manage Sub Category</p>
                             </a></li>
                     </ul>
@@ -54,11 +54,11 @@
                         </p>
                     </a>
                     <ul class="nav nav-treeview">
-                        <li class="nav-item"><a href="#" class="nav-link"><i class="nav-icon bi bi-circle"></i>
+                        <li class="nav-item"><a href="{{route('brand.create')}}" class="nav-link"><i class="nav-icon bi bi-circle"></i>
                                 <p>Add Brand</p>
                             </a></li>
 
-                        <li class="nav-item"><a href="#" class="nav-link"><i class="nav-icon bi bi-circle"></i>
+                        <li class="nav-item"><a href="{{route('brand.index')}}" class="nav-link"><i class="nav-icon bi bi-circle"></i>
                                 <p>Manage Brand</p>
                             </a></li>
                     </ul>
@@ -70,11 +70,11 @@
                         </p>
                     </a>
                     <ul class="nav nav-treeview">
-                        <li class="nav-item"><a href="#" class="nav-link"><i class="nav-icon bi bi-circle"></i>
+                        <li class="nav-item"><a href="{{route('unit.create')}}" class="nav-link"><i class="nav-icon bi bi-circle"></i>
                                 <p>Add Unit</p>
                             </a></li>
 
-                        <li class="nav-item"><a href="#" class="nav-link"><i class="nav-icon bi bi-circle"></i>
+                        <li class="nav-item"><a href="{{route('unit.index')}}" class="nav-link"><i class="nav-icon bi bi-circle"></i>
                                 <p>Manage Unit</p>
                             </a></li>
                     </ul>
@@ -86,11 +86,11 @@
                         </p>
                     </a>
                     <ul class="nav nav-treeview">
-                        <li class="nav-item"><a href="#" class="nav-link"><i class="nav-icon bi bi-circle"></i>
+                        <li class="nav-item"><a href="{{route('color.create')}}" class="nav-link"><i class="nav-icon bi bi-circle"></i>
                                 <p>Add Color</p>
                             </a></li>
 
-                        <li class="nav-item"><a href="#" class="nav-link"><i class="nav-icon bi bi-circle"></i>
+                        <li class="nav-item"><a href="{{route('color.index')}}" class="nav-link"><i class="nav-icon bi bi-circle"></i>
                                 <p>Manage Color</p>
                             </a></li>
                     </ul>
@@ -102,11 +102,11 @@
                         </p>
                     </a>
                     <ul class="nav nav-treeview">
-                        <li class="nav-item"><a href="#" class="nav-link"><i class="nav-icon bi bi-circle"></i>
+                        <li class="nav-item"><a href="{{route('size.create')}}" class="nav-link"><i class="nav-icon bi bi-circle"></i>
                                 <p>Add Size</p>
                             </a></li>
 
-                        <li class="nav-item"><a href="#" class="nav-link"><i class="nav-icon bi bi-circle"></i>
+                        <li class="nav-item"><a href="{{route('size.index')}}" class="nav-link"><i class="nav-icon bi bi-circle"></i>
                                 <p>Manage Size</p>
                             </a></li>
                     </ul>
@@ -118,11 +118,11 @@
                         </p>
                     </a>
                     <ul class="nav nav-treeview">
-                        <li class="nav-item"><a href="#" class="nav-link"><i class="nav-icon bi bi-circle"></i>
+                        <li class="nav-item"><a href="{{route('product.create')}}" class="nav-link"><i class="nav-icon bi bi-circle"></i>
                                 <p>Add Product</p>
                             </a></li>
 
-                        <li class="nav-item"><a href="#" class="nav-link"><i class="nav-icon bi bi-circle"></i>
+                        <li class="nav-item"><a href="{{route('product.index')}}" class="nav-link"><i class="nav-icon bi bi-circle"></i>
                                 <p>Manage Product</p>
                             </a></li>
                     </ul>

@@ -12,7 +12,7 @@ class SubCategoryController extends Controller
      */
     public function index()
     {
-        //
+        return view('admin.subCategory.manage');
     }
 
     /**
@@ -20,7 +20,7 @@ class SubCategoryController extends Controller
      */
     public function create()
     {
-        //
+        return view('admin.subCategory.add');
     }
 
     /**

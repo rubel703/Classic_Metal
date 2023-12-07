@@ -12,7 +12,7 @@ class ColorController extends Controller
      */
     public function index()
     {
-        //
+        return view('admin.colors.manage');
     }
 
     /**
@@ -20,7 +20,7 @@ class ColorController extends Controller
      */
     public function create()
     {
-        //
+        return view('admin.colors.add');
     }
 
     /**
